@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proposta para este Site/title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #111;
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            border-bottom: 1px solid #444;
+            padding-bottom: 10px;
+        }
+
+        a {
+            color: #61dafb;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .section {
+            margin-top: 30px;
+        }
+
+        ul {
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+
+        ul li {
+            margin-bottom: 8px;
+        }
+
+        .emoji {
+            margin-right: 10px;
+        }
+
+        .highlight {
+            font-weight: bold;
+        }
+
+        .obs {
+            background-color: #222;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+
+        hr {
+            border: 0;
+            border-top: 1px solid #444;
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>📘 Proposta para o Site em HTML 7 CSS/h1>
+    <p>Este repositório foi criado com fins didaticos,parte de um desafio do curso de <span class="highlight">HTML</span> na <span class="highlight">DIO</span>. O objetivo é demonstrar como, mesmo com tags simples e um bom uso de cores, é possível criar um site visualmente agradável.</p>
+
+    <div class="obs">
+        💡 <span class="highlight">Obs.:</span> Este projeto não possui versão mobile, pois esse não era o foco do desafio.
+    </div>
+
+    <p>👁️ <strong>Veja outros projetos em :</strong> <a href="https://codandobrasil.com.br/projetos/">Clique aqui</a></p>
+
+    <hr>
+
+    <div class="section">
+        <h2>🎨 Inspiração</h2>
+        <p>Desde pequeno, sempre gostei de aprender e repassar tudo aquilo que aprendia,<span class="highlight">ESTUDAR/span>, diariamente me deixa muito feliz!.</p>
+    </div>
+
+    <hr>
+
+    <div class="section">
+        <h2>🛠️
